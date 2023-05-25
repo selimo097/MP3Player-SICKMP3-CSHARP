@@ -1,0 +1,17 @@
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\SICKMP3.exe.config
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\SICKMP3.exe
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\SICKMP3.pdb
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.AssemblyReference.cache
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.ResolveComReference.cache
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.Form1.resources
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.Properties.Resources.resources
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.GenerateResource.cache
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.CoreCompileInputs.cache
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.exe
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.pdb
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\CircularProgressBar.dll
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\WinFormAnimation.dll
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\bin\Debug\CircularProgressBar.xml
+C:\Users\Selim\Desktop\newnewmp3\SICKMP3\SICKMP3\obj\Debug\SICKMP3.csproj.CopyComplete
